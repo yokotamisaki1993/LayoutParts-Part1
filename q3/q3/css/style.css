@@ -2,7 +2,7 @@
 
 .cell--table {
   table-layout: fixed;
-  width: 100px;
+  width: 100%;
 }
 
 .cell--table th {
