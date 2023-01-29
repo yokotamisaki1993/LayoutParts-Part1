@@ -12,6 +12,20 @@ border-radius: 13px;
 padding: 10px;
 }
 
+.list--card:first-child {
+  margin-left: 0px;
+  margin-bottom: 0px;
+}
+
+.list--card:last-child {
+  margin-right: 0px;
+  margin-bottom: 0px;
+}
+
+.list--card:nth-child(2) {
+  margin-bottom: 0px;
+}
+
 .list {
   display: flex;
   justify-content: center;
