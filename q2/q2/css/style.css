@@ -6,6 +6,7 @@ list-style: none;
 background-color: #d2b48c;
 width: 200px;
 margin: 30px;
+margin-bottom: 0px;
 outline: 10px solid #665;
 box-shadow: 0 0 0 6px #665; 
 border-radius: 13px;
@@ -14,16 +15,10 @@ padding: 10px;
 
 .list--card:first-child {
   margin-left: 0px;
-  margin-bottom: 0px;
 }
 
 .list--card:last-child {
   margin-right: 0px;
-  margin-bottom: 0px;
-}
-
-.list--card:nth-child(2) {
-  margin-bottom: 0px;
 }
 
 .list {
