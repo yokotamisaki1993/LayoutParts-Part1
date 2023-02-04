@@ -92,7 +92,7 @@
 
 .between-area {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  flex-grow: 0;
   gap: 10px;
   margin-top: 20px;
 }
