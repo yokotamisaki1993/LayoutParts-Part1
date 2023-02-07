@@ -5,17 +5,13 @@
 list-style: none;
 background-color: #d2b48c;
 width: 200px;
-margin: 30px;
+margin-right: 60px;
 margin-bottom: 0px;
 margin-top: 0px;
 outline: 10px solid #665;
 box-shadow: 0 0 0 6px #665; 
 border-radius: 13px;
 padding: 10px;
-}
-
-.list--card:first-child {
-  margin-left: 0px;
 }
 
 .list--card:last-child {
